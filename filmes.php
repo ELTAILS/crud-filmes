@@ -25,6 +25,11 @@
             "titulo" => "Pastel assasino",
             "descricao" => "Um pastel que criou vida e se vingou de quem o fritou...",
             "img" => "img/b2df5fd8-7a21-41c2-abfc-5864d02f2e5egit"
+        ],
+        [
+            "titulo" => "Hamilton",
+            "descricao" => "legal",
+            "img" => "https://www.blumenthalarts.org/assets/img/Hamilton_1440_NEW_OPTIM-5fde140f8f.jpg"
         ]
 
     ];
