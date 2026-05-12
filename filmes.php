@@ -15,6 +15,11 @@
             "titulo" => "Até o Último Homem",
             "descricao" => "Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.",
             "img" => "https://br.web.img3.acsta.net/pictures/16/11/21/15/29/457312.jpg"
+        ],
+        [
+            "titulo" => "À Procura da Felicidade",
+            "descricao" => "O filme conta a história de Chris Gardner, um homem que enfrenta dificuldades financeiras enquanto tenta cuidar do filho sozinho. Mesmo passando por problemas como falta de dinheiro e moradia, ele continua lutando por uma oportunidade de trabalho melhor e por uma vida mais digna.",
+            "img" => "https://cdng.europosters.eu/pod_public/1300/263601.jpg"
         ]
     ];
 ?>
