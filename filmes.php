@@ -17,6 +17,16 @@
             "img" => "https://br.web.img3.acsta.net/pictures/16/11/21/15/29/457312.jpg"
         ],
         [
+            "titulo" => "O pinguim que voa",
+            "descricao" => "Acompanhe a historia do pinguim que conseguiu voar usando o poder da mente",
+            "img" => "https://img.freepik.com/fotos-premium/um-pinguim-gentoo-com-penas-pretas-e-brancas-e-um-bico-laranja-esta-voando-com-as-asas-estendidas-contra-um-fundo-branco_1374986-2393.jpg?semt=ais_hybrid&w=740&q=80"
+        ],
+        [
+            "titulo" => "Pastel assasino",
+            "descricao" => "Um pastel que criou vida e se vingou de quem o fritou...",
+            "img" => "img/b2df5fd8-7a21-41c2-abfc-5864d02f2e5egit"
+        ],
+        [
             "titulo" => "À Procura da Felicidade",
             "descricao" => "O filme conta a história de Chris Gardner, um homem que enfrenta dificuldades financeiras enquanto tenta cuidar do filho sozinho. Mesmo passando por problemas como falta de dinheiro e moradia, ele continua lutando por uma oportunidade de trabalho melhor e por uma vida mais digna.",
             "img" => "https://cdng.europosters.eu/pod_public/1300/263601.jpg"
@@ -31,7 +41,6 @@
             "descricao" => "legal",
             "img" => "https://www.blumenthalarts.org/assets/img/Hamilton_1440_NEW_OPTIM-5fde140f8f.jpg"
         ]
-        
     ];
 ?>
 
