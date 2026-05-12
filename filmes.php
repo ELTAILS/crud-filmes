@@ -15,7 +15,13 @@
             "titulo" => "Até o Último Homem",
             "descricao" => "Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.",
             "img" => "https://br.web.img3.acsta.net/pictures/16/11/21/15/29/457312.jpg"
+        ],
+        [
+            "titulo" => "O pinguim que voa",
+            "descricao" => "Acompanhe a historia do pinguim que conseguiu voar usando o poder da mente",
+            "img" => "https://img.freepik.com/fotos-premium/um-pinguim-gentoo-com-penas-pretas-e-brancas-e-um-bico-laranja-esta-voando-com-as-asas-estendidas-contra-um-fundo-branco_1374986-2393.jpg?semt=ais_hybrid&w=740&q=80"
         ]
+
     ];
 ?>
 
