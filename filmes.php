@@ -15,6 +15,11 @@
             "titulo" => "Até o Último Homem",
             "descricao" => "Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.",
             "img" => "https://br.web.img3.acsta.net/pictures/16/11/21/15/29/457312.jpg"
+        ],
+        [
+            "titulo" => "Hamilton",
+            "descricao" => "legal",
+            "img" => "https://www.blumenthalarts.org/assets/img/Hamilton_1440_NEW_OPTIM-5fde140f8f.jpg"
         ]
     ];
 ?>
