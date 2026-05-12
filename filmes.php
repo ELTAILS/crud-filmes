@@ -20,6 +20,11 @@
             "titulo" => "O pinguim que voa",
             "descricao" => "Acompanhe a historia do pinguim que conseguiu voar usando o poder da mente",
             "img" => "https://img.freepik.com/fotos-premium/um-pinguim-gentoo-com-penas-pretas-e-brancas-e-um-bico-laranja-esta-voando-com-as-asas-estendidas-contra-um-fundo-branco_1374986-2393.jpg?semt=ais_hybrid&w=740&q=80"
+        ],
+        [
+            "titulo" => "Pastel assasino",
+            "descricao" => "Um pastel que criou vida e se vingou de quem o fritou...",
+            "img" => "img/b2df5fd8-7a21-41c2-abfc-5864d02f2e5egit"
         ]
 
     ];
